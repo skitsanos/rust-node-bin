@@ -1,0 +1,10 @@
+{
+  "name": "node-bin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "skitsanos <info@skitsanos.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "nj-cli build"
+  }
+}
