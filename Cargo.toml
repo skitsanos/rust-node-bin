@@ -12,7 +12,7 @@ build = "build.rs"
 crate-type = ["cdylib"]
 
 [dependencies]
-node-bindgen = { version = "4.0" }
+node-bindgen = { version = "4.3" }
 
 [build-dependencies]
-node-bindgen = { version = "4.0", features = ["build"] }
+node-bindgen = { version = "4.3", features = ["build"] }
